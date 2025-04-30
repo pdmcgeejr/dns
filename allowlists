@@ -1,6 +1,6 @@
 !
 ! Title: PDM DNS filter
-! Description: Personal list of other DNS traffic blocked
+! Description: Personal list of other DNS traffic allowed
 ! Homepage: https://github.com/pdmcgeejr/hostlistsregistry
 !
 !
@@ -9,5 +9,6 @@
 !
 !
 !
-||www.microsoft.com^
-||www.google.com^
+||www.pdmcgeejr.com^
+||nextdns.io^
+||doh.nextdns.io^

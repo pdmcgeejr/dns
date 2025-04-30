@@ -1,1 +1,13 @@
-
+!
+! Title: PDM DNS filter
+! Description: Personal list of other DNS traffic blocked
+! Homepage: https://github.com/pdmcgeejr/hostlistsregistry
+!
+!
+!
+!
+!
+!
+!
+||www.microsoft.com^
+||www.google.com^

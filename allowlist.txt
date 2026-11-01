@@ -1,5 +1,5 @@
 !
-! Title: PDM AllowList by PDMCGEEJR
+! Title: PDM DNS AllowList by PDMCGEEJR
 ! Description: Personal list of other DNS traffic allowed, Used with Adguard Home Local DNS
 ! Homepage: https://github.com/pdmcgeejr/dns
 !

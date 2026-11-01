@@ -1,5 +1,5 @@
 !
-! Title: PDM FSOCIETY Blocklist
+! Title: PDM FSOCIETY Blocklist by PDMCGEEJR
 ! Description: Personal list of other DNS traffic blocked, Used with Adguard Home Local DNS
 ! Homepage: https://github.com/pdmcgeejr/pdm-fsociety
 !

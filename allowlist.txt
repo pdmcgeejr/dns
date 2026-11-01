@@ -9,3 +9,5 @@ pdmcgeejr.com
 pdmjr.co
 nextdns.io
 doh.nextdns.io
+test.com
+

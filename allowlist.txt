@@ -9,6 +9,7 @@
 !
 !
 !
-||www.pdmcgeejr.com^
-||nextdns.io^
-||doh.nextdns.io^
+pdmcgeejr.com
+pdmjr.co
+nextdns.io
+doh.nextdns.io

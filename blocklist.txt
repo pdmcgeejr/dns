@@ -1,8 +1,6 @@
-!
 ! Title: PDM FSOCIETY Blocklist by PDMCGEEJR
 ! Description: Massive Combined Blocklist from Multiple Blocklist Sources Listed Below
 ! Homepage: https://github.com/pdmcgeejr/pdm-fsociety
-!
 !
 !
 !
@@ -24,7 +22,7 @@ advice-ads.s3.amazonaws.com
 *.ueiwsp.com
 !
 !
-PDM Custom Block List - Apple Ads/Tracking
+! PDM Custom Block List - Apple Ads/Tracking
 *.advertising.apple.com
 *.api-adservices.apple.com
 *.iadsdk.apple.com
@@ -32,7 +30,7 @@ PDM Custom Block List - Apple Ads/Tracking
 *.qwapi.com
 !
 !
-PDM Block Apple Services from bypass adblock
+! PDM Block Apple Services from bypass adblock
 doh.dns.apple.com^
 doh.dns.apple.com.v.aaplimg.com^
 mask.icloud.com^

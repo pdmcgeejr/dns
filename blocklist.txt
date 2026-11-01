@@ -1,6 +1,6 @@
-! Title: PDM FSOCIETY BlockList by PDMCGEEJR
+! Title: PDM DNS BlockList by PDMCGEEJR
 ! Description: Massive Combined Blocklist from Multiple Blocklist Sources Listed Below
-! Homepage: https://github.com/pdmcgeejr/pdm-fsociety
+! Homepage: https://github.com/pdmcgeejr/dns
 !
 !
 !

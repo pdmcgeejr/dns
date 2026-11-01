@@ -1,2 +1,2 @@
-PDMCGEEJR custom DNS filters
+Custom DNS filters by PDMCGEEJR
 ...more information updated soon..

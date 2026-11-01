@@ -1,6 +1,6 @@
 !
 ! Title: PDM FSOCIETY Blocklist by PDMCGEEJR
-! Description: Personal list of other DNS traffic blocked, Used with Adguard Home Local DNS
+! Description: Massive Combined Blocklist from Multiple Blocklist Sources Listed Below
 ! Homepage: https://github.com/pdmcgeejr/pdm-fsociety
 !
 !
@@ -8,7 +8,7 @@
 !
 !
 !
-!PDM Custom Blocklist
+! PDM Custom Blocklist
 !
 example.com
 !
@@ -18,7 +18,7 @@ example.com
 !
 !
 !
-!Blocklist: Unifi-Content-Filter-Blocklist by zombiehunternr1
+! Blocklist: Unifi-Content-Filter-Blocklist by zombiehunternr1
 !
 0.arenabg.com
 00-torrnets.com
@@ -4143,3 +4143,8 @@ zooqle.proxyportal.pw
 zooqle.unblocked.llc
 zoozle.org
 ztracker.huanalytics.google.com
+!
+!
+! Blocklist: No Google
+!
+!

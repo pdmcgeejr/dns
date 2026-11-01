@@ -1,4 +1,4 @@
-! Title: PDM DNS BlockList by PDMCGEEJR
+! Title: PDMCGEEJR DNS BlockList
 ! Description: Massive Combined Blocklist from Multiple Blocklist Sources Listed Below
 ! Homepage: https://github.com/pdmcgeejr/dns
 !

@@ -1,5 +1,5 @@
 !
-! Title: PDM FSOCIETY Allowlist
+! Title: PDM FSOCIETY Allowlist by PDMCGEEJR
 ! Description: Personal list of other DNS traffic allowed, Used with Adguard Home Local DNS
 ! Homepage: https://github.com/pdmcgeejr/pdm-fsociety
 !

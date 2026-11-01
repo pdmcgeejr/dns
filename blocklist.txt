@@ -40,7 +40,7 @@ mask.apple-dns.net^
 mask-api.fe.apple-dns.net^
 !
 !
-! Blocklist: Unifi-Content-Filter-Blocklist by zombiehunternr1
+! Blocklist: Custom Version of Unifi-Content-Filter-Blocklist by zombiehunternr1
 0.arenabg.com
 00-torrnets.com
 0day.ro
@@ -2375,7 +2375,6 @@ rutracker.wiki
 s.clarity.ms
 s.skimresources.com
 s.yoooo.co
-s.youtube.com
 s1.rg-mechanics.org
 s1.torrents-igruha.org
 s93146559.onlinehome.us

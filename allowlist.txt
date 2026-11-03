@@ -9,3 +9,13 @@ pdmcgeejr.com
 pdmjr.co
 nextdns.io
 doh.nextdns.io
+!
+!
+!
+! allow reCAPTCHA through a web filter
+!
+www.google.com/recaptcha/
+www.gstatic.com/recaptcha/
+www.recaptcha.net
+fonts.gstatic.com
+apis.google.com
